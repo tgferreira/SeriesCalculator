@@ -1,0 +1,7 @@
+C:\Users\tiago\Desktop\Repos\SeriesCalculator\SeriesCalculator\obj\Debug\SeriesCalculator.csprojAssemblyReference.cache
+C:\Users\tiago\Desktop\Repos\SeriesCalculator\SeriesCalculator\obj\Debug\SeriesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\Repos\SeriesCalculator\SeriesCalculator\bin\Debug\SeriesCalculator.exe.config
+C:\Users\tiago\Desktop\Repos\SeriesCalculator\SeriesCalculator\bin\Debug\SeriesCalculator.exe
+C:\Users\tiago\Desktop\Repos\SeriesCalculator\SeriesCalculator\bin\Debug\SeriesCalculator.pdb
+C:\Users\tiago\Desktop\Repos\SeriesCalculator\SeriesCalculator\obj\Debug\SeriesCalculator.exe
+C:\Users\tiago\Desktop\Repos\SeriesCalculator\SeriesCalculator\obj\Debug\SeriesCalculator.pdb
