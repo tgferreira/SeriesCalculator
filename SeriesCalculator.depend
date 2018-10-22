@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1540238826 source:c:\users\tiago\desktop\calculusproject\seriescalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	"geometrica.h"
+	"harmonica.h"
+	"telescopica.h"
+	"main.h"
+
+1539968580 c:\users\tiago\desktop\calculusproject\seriescalculator\geometrica.h
+
+1539883368 c:\users\tiago\desktop\calculusproject\seriescalculator\harmonica.h
+
+1540238585 c:\users\tiago\desktop\calculusproject\seriescalculator\telescopica.h
+
+1539883710 c:\users\tiago\desktop\calculusproject\seriescalculator\alternada.h
+
+1540239545 source:c:\users\tiago\desktop\calculusproject\seriescalculator\geometrica.c
+	<stdio.h>
+	<math.h>
+	"main.h"
+	"geometrica.h"
+
+1540239559 source:c:\users\tiago\desktop\calculusproject\seriescalculator\harmonica.c
+	<stdio.h>
+	<math.h>
+	"main.h"
+	"harmonica.h"
+
+1540238323 c:\users\tiago\desktop\calculusproject\seriescalculator\main.h
+
+1539692150 source:c:\users\tiago\desktop\calculusproject\seriescalculator\harmonica_alternada.c
+	<stdio.h>
+	<math.h>
+	"main.h"
+	"harmonica_alternada.h"
+
+1539689756 c:\users\tiago\desktop\calculusproject\seriescalculator\harmonica_alternada.h
+
+1540239778 source:c:\users\tiago\desktop\calculusproject\seriescalculator\telescopica.c
+	<stdio.h>
+	<math.h>
+	"main.h"
+	"telescopica.h"
+
+1540239520 source:c:\users\tiago\desktop\calculusproject\seriescalculator\alternada.c
+	<stdio.h>
+	<math.h>
+	"main.h"
+	"alternada.h"
+
